@@ -1,0 +1,134 @@
+*{
+	font-family: 'Manrope',sans-serif;
+	-ms-user-select: none; 
+	-moz-user-select: none; 
+	-webkit-user-select: none; 
+	user-select: none;
+}
+
+
+.anime_name_people {
+	font-size: 60px;
+	position: absolute;
+	top: 25%;
+	left: 7%;
+	color: white;
+}
+body {
+	background: linear-gradient(to right, purple, #1959d1);
+}
+.mini_text_anime {
+	color: white;
+	font-size: 18px;
+	position: absolute;
+	top: 45%;
+	left: 7%;
+	margin: 0 auto;
+	max-width: 400px;
+}
+
+.name_anime {
+	width: 250px;
+    padding: 10px;
+    position: absolute;
+    top: 20%;
+    left: 7%;
+    background: #a31c5d;
+    border-radius: 10px;
+    color: #ff1492;
+}
+
+.photo_anime {
+	position: absolute;
+	left: 60%;
+	top: 10%;
+}
+
+.simbolanime {
+	position: absolute;
+	left: 6%;
+}
+.manyinfo {
+	width: 103px;
+    padding: 15px;
+    position: absolute;
+    top: 85%;
+    left: 7%;
+    background:#08D9D6 ;
+    border-radius: 30px;
+    color: blue;
+    text-decoration: none;
+}
+
+.manyinfo:hover {
+	width: 120px;
+    padding: 20px;
+    position: absolute;
+    top: 84%;
+    left: 7%;
+    background:#08D9D6 ;
+    border-radius: 30px;
+    color: blue;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.manyinfoanime {
+    position: absolute;
+    top: 87.2%;
+    left: 20%;
+    color: #08D9D6;
+    text-decoration: none;
+}
+
+.manyinfoanime:hover {
+	font-size: 20px;
+	position: absolute;
+    top: 87%;
+    left: 20%;
+    color: #08D9D6;
+    text-decoration: none;
+}
+
+.info_home {
+	position: absolute;
+    top: 3%;
+    left: 81%;
+    color: #08D9D6;
+    text-decoration: none;
+}
+
+.info_home:hover {
+	font-size: 20px;
+	position: absolute;
+    top: 3%;
+    left: 81%;
+    color: #08D9D6;
+    text-decoration: none;
+}
+
+.anime {
+	position: absolute;
+    top: 3%;
+    left: 40%;
+    color: white;
+    text-decoration: none;
+}
+
+.aboutpeople {
+	position: absolute;
+    top: 3%;
+    left: 46%;
+    color: white;
+    text-decoration: none;
+}
+
+.manyfirstpeople {
+	position: absolute;
+    top: 3%;
+    left: 52%;
+    color: white;
+    text-decoration: none;
+}
+
+
